@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @fayezmustafa01
-- 👀 I’m interested in learning languages, drawing, to be useful to the community
-- 🌱 I’m currently learning making apps with flutter
 - 📫 How to reach me: this is my email: brainintellectual01@gmail.com
 
 <!---
